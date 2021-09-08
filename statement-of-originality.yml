@@ -18,7 +18,7 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:in realizarea patchului am vizionat un video de prezentare a armoniei diatoncice si am implementat pattern-ul. synth-ul este asemanator celui realizat in clasa. 
+  - comment:in realizarea patchului am vizionat un video de prezentare a armoniei diatoncice si am implementat pattern-ul. synth-ul este asemanator celui realizat in clasa. Am incarcat patchul pe Teams in assignment-ul Max Final   
     url:https://www.youtube.com/watch?v=fXIEmMDwc7E&list=PL2wz2QmDgvzr8KCF5n4dLlAIFLjfZ4SHw&index=6
     licence:
 
